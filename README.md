@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Course Shop</h1>
+        <h1>Forex Course Correct</h1>
     </header>
 
     <section id="courses">
